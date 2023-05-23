@@ -26,15 +26,29 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I think I am funny XD**
 
-<h3 align="left">Connect with me:</h3>
+*💻 &nbsp;DATA -  DATA **
+```python
+class Bio:
+     def __init__(self):
+          self.data()
+     def data(self):
+          Biodata = {
+           Full Name = " [ Lukman - { Nurul Hakim } ] - ",
+           Nick Name = "Lukman",
+           City = "Pemalang",
+           Whatssap ="+628812607961",
+           Province = "Jawa Tengah",
+           Country = "Indonesia",
 
-<h3 align="center">WHATSSAP :  6285877346346</h3>
-<h3 align="center">FB LINK : https://www.facebook.com/100090918445400 </h3>
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayu1s&show_icons=true&locale=en&layout=compact" alt="bayu1s" /></p>
-
+           Birthday = "04/01/20xx"
+           
+           * PLIS DONATE *
+           DANA   = "6285877346346",
+           PULSA  ="628812607961",
+           PAYPAL = "628812607961",
+                            TERIMAKASIH
+          } 
+          print (Biodata)
+if __name__==__main__":
+      Bio()
+```
