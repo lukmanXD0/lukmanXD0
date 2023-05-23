@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">   HANYA SEORANG MAKSIAT< /h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="IMG_20230509_233741.jpg">
+<img align="right" alt="Coding" width="250" height="400" src="scaled_images-photo-processed.jpg">
 
 
 
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
            Whatssap ="+628812607961",
            Province = "Jawa Tengah",
            Country = "Indonesia",
+ 
            * PLIS DONATE *
            DANA   = "6285877346346",
            PULSA  ="628812607961",
