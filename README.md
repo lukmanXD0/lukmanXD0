@@ -24,15 +24,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **lukmanXD@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+ ** 💻 &nbsp;DATA -  DATA **
 
-*💻 &nbsp;DATA -  DATA **
-```python
-class Bio:
-     def __init__(self):
-          self.data()
-     def data(self):
-          Biodata = {
+     
            Full Name = " [ Lukman - { Nurul Hakim } ] - ",
            Nick Name = "Lukman",
            City = "Pemalang",
@@ -46,9 +40,6 @@ class Bio:
            DANA   = "6285877346346",
            PULSA  ="628812607961",
            PAYPAL = "628812607961",
-                            TERIMAKASIH
-          } 
-          print (Biodata)
-if __name__==__main__":
-      Bio()
-```
+               TERIMAKASIH
+          
+####
