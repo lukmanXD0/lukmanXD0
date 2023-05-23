@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Lukman XD</h1>
-<h3 align="center">   HANYA SEORANG MAKSIAT  /h3>
+<h3 align="center">   HANYA SEORANG MAKSIAT<  /h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
 <img align="right" alt="Coding" width="250" height="400" src="IMG_20230509_233741.jpg">
@@ -31,15 +31,10 @@ Here are some ideas to get you started:
 <h3 align="center">WHATSSAP :  6285877346346</h3>
 <h3 align="center">FB LINK : https://www.facebook.com/100090918445400 </h3>
 
-<h3 align="left">♥️ LINK DONASI❤️:</h3>
 
-<h3 align="center">DANA :  6285877346346</h3>
-<h3 align="center">PULSA :  6285877346346</h3>
-<h3 align="center">PAYPAL :  6285877346346</h3>
-<p align="left">
 
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayu1s&show_icons=true&locale=en&layout=compact" alt="bayu1s" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bayu1s&show_icons=true&locale=en" alt="bayu1s" /></p>
+
